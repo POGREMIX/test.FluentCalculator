@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentCalculator", "FluentCalculator\FluentCalculator.csproj", "{DE34C8F8-B7C1-41E0-86C6-B7352C0AA7EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{4941A30E-C4B3-40F3-B86B-E8BCE6DF5CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE34C8F8-B7C1-41E0-86C6-B7352C0AA7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE34C8F8-B7C1-41E0-86C6-B7352C0AA7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE34C8F8-B7C1-41E0-86C6-B7352C0AA7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE34C8F8-B7C1-41E0-86C6-B7352C0AA7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4941A30E-C4B3-40F3-B86B-E8BCE6DF5CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4941A30E-C4B3-40F3-B86B-E8BCE6DF5CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4941A30E-C4B3-40F3-B86B-E8BCE6DF5CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4941A30E-C4B3-40F3-B86B-E8BCE6DF5CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D657E31-89E5-4526-AA9E-FCDD69907314}
+	EndGlobalSection
+EndGlobal
